@@ -1,2 +1,5 @@
-# BigIntEx
-Extends BigInt class
+# Big
+
+```js
+import * as Big from './Big';
+```
